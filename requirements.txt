@@ -3,6 +3,6 @@ scikit-learn==1.5.2
 pandas==2.2.3
 numpy==1.26.4
 transformers==4.46.0
-torch==2.5.0
+torch
 huggingface_hub==0.26.0
 plotly==5.24.1
